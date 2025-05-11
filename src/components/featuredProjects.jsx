@@ -4,7 +4,7 @@ import img1 from '../assets/Banner-Images/image-1.jpg';
 import img2 from '../assets/Banner-Images/Image-2.jpg';
 import img3 from '../assets/Banner-Images/Image-3.jpg';
 import img4 from '../assets/Banner-Images/Image-4.jpg';
-import img5 from '../assets/Banner-Images/Image-5.jpg';
+import img5 from '../assets/Banner-Images/image-5.jpg';
 import img6 from '../assets/Banner-Images/Image-6.jpg';
 import '../css/fonts.css';
 
