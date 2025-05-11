@@ -1,0 +1,68 @@
+/* index.css or App.css 
+
+fonts used:
+1. Bebas Neue
+2. dm serif text
+3. montserrat
+
+
+*/
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Serif+Text:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Serif+Text:ital@0;1&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+/* index.css or App.css */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Serif+Text:ital@0;1&family=Montserrat:wght@300;400;700&display=swap');
+
+
+.font-playfair {
+    font-family: 'Playfair Display', serif;
+  }
+  .montserrat-light {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+.montserrat-regular {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+.roboto-mono-light {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+  .bebas-regular {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .bebas-regular-p {
+    font-family: "DM Serif Text", serif;
+    font-weight: 100;
+  }
+  
+  .bebas-regular-italic {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  
+  .font-inter {
+    font-family: 'Inter', sans-serif;
+  }
+  .dm-serif-text-regular {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .dm-serif-text-regular-italic {
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  
