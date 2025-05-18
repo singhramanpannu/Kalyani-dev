@@ -8,6 +8,11 @@ import '../css/common.css';
 import FeaturedProjects from '../components/featuredProjects';
 import Footer from '../components/footer';
 import SmoothScroll from '../components/wrapperscrolling';
+import AboutUsButton from '../components/aboutusbtn';
+import WhatWeDo from '../components/WhatWeDo';
+import StatementTwo from '../components/statement-2';
+import ClientCarousel from '../components/clientcarousel';
+import FollowUs from '../components/followus';
 
 const Landingpage = () => {
   return (
@@ -17,7 +22,12 @@ const Landingpage = () => {
     <Navbar></Navbar>
     <CinematicImageSlider></CinematicImageSlider>
     <StatementSection></StatementSection>
+    <AboutUsButton></AboutUsButton>
+    <WhatWeDo></WhatWeDo>
+    <StatementTwo></StatementTwo>
     <FeaturedProjects></FeaturedProjects>
+    <ClientCarousel></ClientCarousel>
+    <FollowUs></FollowUs>
     <Footer></Footer>
     
     </SmoothScroll>

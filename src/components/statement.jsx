@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 export default function StatementSection() {
   return (
-    <section className="bg-transparent min-h-[50vh] py-[12vh] px-6 md:px-24 flex items-center justify-center overflow-hidden relative">
+    <section className="bg-transparent min-h-[40vh] py-[12vh] px-6 md:px-24 flex items-center justify-center overflow-hidden relative">
       {/* Decorative Divider Line */}
       <motion.div 
         initial={{ width: 0 }}
@@ -21,10 +21,8 @@ export default function StatementSection() {
         className="w-full max-w-4xl mx-auto text-center z-10"
       >
         <h2 className="text-[2.4rem] md:text-[2.8rem] lg:text-[2rem] leading-snug tracking-tight font-light text-gray-600 montserrat-light">
-          <span className="mr-3 montserrat-regular text-gray-800 text-[3.2rem] md:text-[3.4rem] mb-3">
-            Design
-          </span>
-          is how we shape experience — quietly, beautifully.
+         
+          Design  is how we shape experience — quietly, beautifully.
         </h2>
       </motion.div>
 

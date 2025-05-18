@@ -5,7 +5,7 @@ import { HiOutlineMap } from 'react-icons/hi';
 
 export default function Footer() {
   return (
-    <footer className="bg-[#f5f5f0] text-gray-800 w-full py-14 px-6 border-t border-gray-300">
+    <footer className="bg-[#C9AD94] text-gray-800 w-full py-14 px-6 border-t border-gray-300">
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12 text-sm md:text-[0.95rem]">
         
         {/* Left Column: Company Info */}

@@ -23,7 +23,7 @@ const CinematicImageSlider = () => {
   }, []);
 
   return (
-    <div className="flex w-full h-screen overflow-hidden">
+    <div className="flex w-full h-[130vh] overflow-hidden">
       {/* Left Panel */}
       <div className="w-1/2 h-full relative">
         <motion.img
